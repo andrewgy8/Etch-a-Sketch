@@ -1,0 +1,39 @@
+#wrapper {
+    width: auto;
+    height: auto;
+
+    margin-top: 100px;
+    margin-left: auto 0;
+    margin-right: auto;
+}
+
+.row {
+    width: auto;
+    height: 40px;
+
+    
+}
+
+.box {
+    width: 40px;
+    height: 40px;
+
+    margin: 0px;
+
+    outline: 2px solid;
+    display: inline-block;
+    
+    background: white;
+}
+
+.solid {
+    width: 40px;
+    height: 40px;
+
+    margin: 0px;
+
+    outline: 2px solid;
+    display: inline-block;
+    
+    background: blue;
+}
